@@ -23,6 +23,7 @@ Proof-of-concept/exploit code will be used to demonstrate the security vulnerabi
 |CVE-2022-34918 | Heap ***                | Yes |
 |CVE-2022-0847  | Dirty Pipe              | No |
 |Any            | [SLUBStick](https://hardenedvault.net/blog/2024-08-25-slubstick-risk-assessment-embedded-system/)               | Partially |
+|               | [UnhookingLinuxEdr/LKM](https://github.com/MatheuZSecurity/UnhookingLinuxEdr)| Yes|
 
 ## Licence
 
